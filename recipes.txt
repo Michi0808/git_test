@@ -1,0 +1,8 @@
+curry
+ -carrot
+ -poteto
+ -onion
+
+miso-soup
+ -miso
+ -tofu
